@@ -6,7 +6,6 @@
 Given an array of integers, find the second largest element without sorting.
 
 ## Approaches
-
 ### Approach 1 — Sorting (Brute Force) ❌
 ```python
 def getSecondLargest(arr):
